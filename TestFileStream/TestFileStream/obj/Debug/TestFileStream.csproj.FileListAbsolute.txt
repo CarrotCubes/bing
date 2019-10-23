@@ -1,0 +1,7 @@
+D:\vs_workspace\TestFileStream\TestFileStream\bin\Debug\TestFileStream.exe.config
+D:\vs_workspace\TestFileStream\TestFileStream\bin\Debug\TestFileStream.exe
+D:\vs_workspace\TestFileStream\TestFileStream\bin\Debug\TestFileStream.pdb
+D:\vs_workspace\TestFileStream\TestFileStream\obj\Debug\TestFileStream.csprojAssemblyReference.cache
+D:\vs_workspace\TestFileStream\TestFileStream\obj\Debug\TestFileStream.csproj.CoreCompileInputs.cache
+D:\vs_workspace\TestFileStream\TestFileStream\obj\Debug\TestFileStream.exe
+D:\vs_workspace\TestFileStream\TestFileStream\obj\Debug\TestFileStream.pdb
