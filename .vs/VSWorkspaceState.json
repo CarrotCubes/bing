@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\1111",
+    "\\1111\\1111"
   ],
+  "SelectedNode": "\\1111\\1111.sln",
   "PreviewInSolutionExplorer": false
 }
