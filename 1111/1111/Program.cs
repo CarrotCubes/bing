@@ -11,6 +11,7 @@ namespace _1111
         static void Main(string[] args)
         {
             Console.WriteLine("HelloWord");
+            Console.WriteLine("HaiWord");
         }
     }
 }
