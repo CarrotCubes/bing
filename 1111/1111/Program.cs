@@ -13,7 +13,7 @@ namespace _1111
             Console.WriteLine("HelloWord");
             Console.WriteLine("HaiWord");
             Console.WriteLine("HHHH2");
-            Console.WriteLine("Master");
+            Console.WriteLine("2222分支");
         }
     }
 }
