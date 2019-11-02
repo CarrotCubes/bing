@@ -15,6 +15,7 @@ namespace _1111
             Console.WriteLine("HHHH2");
             Console.WriteLine("2222分支");
             Console.WriteLine("22222222222222分支");
+            Console.WriteLine("Master2222222222222222222222");
         }
     }
 }
